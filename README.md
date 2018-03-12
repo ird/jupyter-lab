@@ -3,7 +3,7 @@ Experimenting with data exploration using Jupyter notebook
 
 1. Heights and weights of Major League Baseball players
 2. Voronoi polygons of London's Starbucks chains:
-![London Starbucks](https://github.com/ird/jupyter-lab/starbucks/voronoi.png  "Starbucks in London")
+![London Starbucks](https://github.com/ird/jupyter-lab/raw/master/starbucks/voronoi.png "Starbucks in London")
 
 
 Following some example kaggle kernels:
